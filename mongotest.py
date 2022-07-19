@@ -1,5 +1,3 @@
-
-
 d = {
     "name" : "sudhanshu",
     "email": "sudhanshu@ineuron.ai",
